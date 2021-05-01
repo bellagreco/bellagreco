@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Isabella</h1>
 <h3 align="center">A passionate frontend developer from Brazil. 
   ...But I live in the UK.</h3>
+  
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 - 🔭 I’m currently working on [Spicy Mango](https://www.spicymango.co.uk/)
 
