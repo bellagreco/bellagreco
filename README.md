@@ -2,7 +2,7 @@
 <img src="https://github.com/bellagreco/bellagreco/blob/main/giphy.gif?raw=true" width="300"/><img  width="300" src="https://github.com/bellagreco/bellagreco/blob/main/Screenshot%202021-05-01%20at%2014.59.21.png?raw=true" />
 <br>
 
-<img src="https://github.com/bellagreco/bellagreco/blob/main/Design%20sem%20nome.gif?raw=true" width="600" />
+
 </div>
 
 
