@@ -1,5 +1,5 @@
 <div style="align:center">
-<img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="500"/>
+<img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="1000"/>
   
 <!--   <img  width="300" src="https://github.com/bellagreco/bellagreco/blob/main/Screenshot%202021-05-01%20at%2014.59.21.png?raw=true" /> -->
 <br>
